@@ -12,6 +12,8 @@ gem 'milia', github: 'jekuno/milia'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
+gem 'jquery-turbolinks', '~> 2.1'
+gem 'turbolinks', '~> 5'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
